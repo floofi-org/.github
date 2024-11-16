@@ -1,6 +1,6 @@
 ---
-name: Default issue template
-about: An issue template.
+name: Report a bug or suggest a feature
+about: Report a non-security related bug or suggest a new feature or a change in an existing feature.
 title: 'Briefly describe your issue'
 labels: ''
 assignees: 'starscouts'
