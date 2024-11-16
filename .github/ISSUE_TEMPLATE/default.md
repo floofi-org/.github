@@ -1,3 +1,12 @@
+---
+name: Default issue template
+about: An issue template.
+title: 'Briefly describe your issue'
+labels: ''
+assignees: 'starscouts'
+
+---
+
 ### Expected behavior
 <!-- Tell us what should happen -->
 
