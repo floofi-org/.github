@@ -1,1 +1,1 @@
-# Floofi Systems: Technologies for creatures who matter.
+# Please see @kammyfur instead.
