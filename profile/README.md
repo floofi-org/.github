@@ -1,1 +1,1 @@
-# Please see @kammyfur instead.
+# Please see [@kammyfur](https://github.com/kammyfur) instead.
